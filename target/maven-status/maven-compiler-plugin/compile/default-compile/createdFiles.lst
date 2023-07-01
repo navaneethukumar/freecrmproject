@@ -1,0 +1,7 @@
+com\qa\testbase\Base.class
+com\qa\util\TestUtil.class
+com\qa\crm\pages\Addatocartpage.class
+com\qa\crm\pages\Loginpage.class
+com\qa\crm\pages\contactspage.class
+com\qa\crm\pages\Homepage.class
+com\qa\crm\pages\Registarationpage.class
